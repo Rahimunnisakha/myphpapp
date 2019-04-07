@@ -1,3 +1,2 @@
-# myphpapp
-My Test PHP Application
-This is for testing CI
+# my php program
+practing to create a wipro portal
